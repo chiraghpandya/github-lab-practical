@@ -1,2 +1,4 @@
 GitHub collaboration enables teams to work together on code seamlessly through features like pull requests, code reviews, and issue tracking. 
 Developers can contribute from anywhere, manage workflows, and maintain project transparency, making teamwork more efficient and organized.
+
+fix file 3
