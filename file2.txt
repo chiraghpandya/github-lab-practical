@@ -2,3 +2,5 @@ Git branching allows developers to diverge from the main codebase to work on fea
 Purpose: Enables parallel development and safe experimentation.
 Efficiency: Branch creation and switching are nearly instantaneous in Git.
 Collaboration: Reduces conflicts and supports structured workflows like GitHub Flow or Gitflow.
+
+given task of update file 2 is successfully completed
